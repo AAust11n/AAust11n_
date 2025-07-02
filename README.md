@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on Nothing Right Now
-- 📫 How to reach me carteraustinagee@gmail.com
+- 📫 How to reach me carteragee@proton.me
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Honey never spoils. Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible. The long shelf life of honey is due to its low water content and acidic pH, creating an environment that inhibits the growth of microorganisms and preserves the honey indefinitely.
 
